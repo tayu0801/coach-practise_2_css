@@ -1,0 +1,66 @@
+.container {
+  width: 100%;
+}
+.catchphrase {
+  background-image: url(../img/firstview.jpg);
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.catchphrase__text {
+  font-size: 40px;
+  color: white;
+}
+.about {
+  margin: 70px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about__title {
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+
+.blog {
+  margin: 70px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blog__title {
+  font-size: 32px;
+  margin-bottom: 50px;
+}
+.blog__area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog__card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.blog__image {
+  width: 80%;
+}
+.blog__text {
+  width: 80%;
+}
+
+.question {
+  margin: 70px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.question__title {
+  font-size: 32px;
+  margin-bottom: 50px;
+}
